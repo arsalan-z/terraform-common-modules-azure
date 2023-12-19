@@ -1,0 +1,1 @@
+touch resources.tf outputs.tf locals.tf variables.tf
